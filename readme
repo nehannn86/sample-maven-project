@@ -1,4 +1,4 @@
-rrrretup Maven in your system:
+Setup Maven in your system:
 1] sudo yum install java-1.8.0-openjdk-devel 
 2] sudo wget https://mirrors.estointernet.in/apache/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.tar.gz -P /opt/
 3] sudo tar -xvzf /opt/apache-maven-3.6.3-bin.tar.gz
